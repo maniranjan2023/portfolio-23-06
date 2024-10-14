@@ -1,7 +1,6 @@
 
  window.addEventListener('load', function() {
     document.getElementById('page').style.display = 'none';
-    document.getElementById('content').style.display = 'block';
   });
 
 
