@@ -112,13 +112,6 @@ form.addEventListener('submit', function(e) {
         });
 });
 
-var loader=document.getElementById("page");
-window.addEventListener("load",function(){
 
-    setTimeout(function(){
-        loader.style.display= "none";
-        
-    },1500);
-});
 
 
